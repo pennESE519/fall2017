@@ -1,6 +1,6 @@
 /* ESE 519, Fall 2017
  * ------------------
- * Starter code for Lab 4
+ * Starter code for Lab 3
  *
  * The main purpose is to provide all the FreeGLUT
  * code required to handle display and input.
